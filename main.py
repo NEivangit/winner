@@ -19,3 +19,4 @@ def pushbutton():
     push.clicked.connect(pushbutton)
 
 app.exec_()
+print('я незнаю что написать')
